@@ -8,7 +8,8 @@
 - [backpack](https://github.com/jaredpalmer/backpack) an alernative for nodemon that offers even more features
 - [mongo shell reference](https://docs.mongodb.com/manual/reference/mongo-shell/)
 - [MDN Article about CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) (cross origin resource sharing)
-- [express cors npm package](https://github.com/expressjs/cors)
+- [express cors npm package](https://github.com/expressjs/cors  )
+- [Stackoverflow: how to delete something properly (use mongo.ObjectID)](https://stackoverflow.com/questions/48164208/delete-mongodb-document-by-id-in-express-js)
 
 ### Quickstart
 
